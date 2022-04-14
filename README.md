@@ -20,9 +20,6 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/socr102">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
-  <a href="https://github.com/socr102">
-    <img alt="Solidity" src="https://github.com/socr102/socr102/blob/main/icons/solidity.png" />
-  </a>
 </div>
 <div>
   <a href="https://github.com/socr102">
