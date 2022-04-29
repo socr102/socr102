@@ -1,7 +1,7 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Blockchain | Full-Stack developer</h1>
+<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Front-end | Blockchain developer</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
+I'm very familiar with  MERN | MEAN | DApp | Smart Contract | Web3.js | As Full-stack developer.
 </p>
 
 
